@@ -5,6 +5,8 @@ import { NavLink } from "@/components/NavLink";
 import { useNavigate, useLocation } from "react-router-dom";
 import logo from "@/assets/logo.png";
 
+
+
 const navItems = [
   { name: "About", href: "#about" },
   { name: "Domains", href: "#domains" },
