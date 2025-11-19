@@ -73,7 +73,7 @@ export const Hero = () => {
 
           {/* Subtitle */}
           <p className="text-sm sm:text-base md:text-lg lg:text-xl text-muted-foreground max-w-3xl mx-auto mb-8 leading-relaxed px-4">
-            Join us for an innovative 30-hour offline hackathon where creativity meets technology.
+            Join us for an innovative 16-hour offline hackathon where creativity meets technology.
             Build groundbreaking solutions, learn from industry experts, and compete for amazing prizes!
           </p>
 
