@@ -13,18 +13,18 @@ export const Organizers = () => {
   const coordinators = [
     {
       name: "Rajak aman",
-      role: "Innovation Head",
-      department: "CE Department",
-    },
-    {
-      name: "Umang singh",
-      role: "Head coordinater",
+      role: "Innovation Head,Technical lead",
       department: "CE Department",
     },
     {
       name: "Darshil parekh",
-      role: "Head Coordinater",
+      role: "Lead coordinater",
       department: "IT Department",
+    },
+    {
+      name: "Umang singh",
+      role: "Sub Coordinater",
+      department: "CE Department",
     },
     {
       name: "Anas Kazi",
@@ -83,7 +83,7 @@ export const Organizers = () => {
             Meet the Organizers
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            The dedicated team behind Code Fest 2024
+            The dedicated team behind Code Fest 2025
           </p>
         </div>
 

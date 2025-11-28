@@ -13,7 +13,6 @@ const navItems = [
   { name: "Timeline", href: "#timeline" },
   { name: "Prizes", href: "#prizes" },
   { name: "FAQ", href: "#faq" },
-  { name: "Sponsors", href: "#sponsors" },
 ];
 
 export const Navigation = () => {

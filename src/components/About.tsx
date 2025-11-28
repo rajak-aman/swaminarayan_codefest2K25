@@ -40,7 +40,7 @@ export const About = () => {
         <div className="max-w-4xl mx-auto mb-16">
           <div className="bg-card/50 backdrop-blur-sm border border-border rounded-2xl p-8 md:p-12">
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-8">
-              Swaminarayan Code Fest is a 30-hour offline hackathon organized by Shree Swaminarayan Institute 
+              Swaminarayan Code Fest is a 16-hour offline hackathon organized by Shree Swaminarayan Institute 
               Of Technology, where students work in teams to solve real-world open innovation problems using 
               technology. The event fosters collaboration, creativity, critical thinking, and communication 
               skills, giving students a platform to create impactful projects in an industry-like environment.
@@ -57,7 +57,7 @@ export const About = () => {
               </div>
               <div>
                 <h3 className="text-primary font-bold mb-2">Duration</h3>
-                <p className="text-2xl font-bold">30 Hours</p>
+                <p className="text-2xl font-bold">16 Hours</p>
               </div>
             </div>
           </div>

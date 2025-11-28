@@ -58,7 +58,7 @@ const AppDevelopment = () => {
   return (
     <div className="min-h-screen">
       <Navigation />
-      
+
       <main className="pt-32 pb-20">
         <div className="container mx-auto px-4">
           <Button
@@ -142,11 +142,22 @@ const AppDevelopment = () => {
               </div>
             </section>
 
+
+            {/* new registration button on click event*/}
+
             <div className="text-center">
-              <Button variant="hero" size="lg">
-                Register for This Domain
-              </Button>
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSePSCWJi4dlOS_Xtdfu6x_fD0pk8zCiSiEiyXhMYI1BK6C8QQ/viewform"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Button variant="hero" size="lg">
+                  Register for This Domain
+                </Button>
+              </a>
             </div>
+
+
           </div>
         </div>
       </main>

@@ -4,7 +4,7 @@ import logo from "@/assets/logo.png";
 export const Footer = () => {
   return (
     <footer className="bg-card border-t border-border pt-16 pb-8">
-      <div className="container mx-auto px-4">
+t3      <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
@@ -16,23 +16,25 @@ export const Footer = () => {
               </div>
             </div>
             <p className="text-muted-foreground mb-4">
-              Join us for an innovative 30-hour hackathon where creativity meets technology. 
+              Join us for an innovative 16-hour hackathon where creativity meets technology.
               Build groundbreaking solutions and compete for amazing prizes!
             </p>
+
             <div className="flex gap-3">
               <a href="#" className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
                 <Facebook className="w-5 h-5 text-primary" />
               </a>
-              <a href="#" className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
+              <a href="https://x.com/rjkaman2203?t=hfdnmBbmPMlnvaRGY4dDHQ&s=09" className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
                 <Twitter className="w-5 h-5 text-primary" />
               </a>
-              <a href="#" className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
+              <a href="https://www.instagram.com/tech_teen_innovators?igsh=czBxOTJ0amNiNWdn" className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
                 <Instagram className="w-5 h-5 text-primary" />
               </a>
-              <a href="#" className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
+              <a href="https://www.linkedin.com/in/aman-rajak22/" className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center hover:bg-primary/20 transition-colors">
                 <Linkedin className="w-5 h-5 text-primary" />
               </a>
             </div>
+
           </div>
 
           {/* Quick Links */}
@@ -77,14 +79,14 @@ export const Footer = () => {
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Mail className="w-5 h-5 text-primary flex-shrink-0" />
-                <a href="mailto:info@codefest.com" className="text-sm hover:text-primary transition-colors">
-                  info@codefest.com
+                <a href="mailto:techteeninnovators@gmail.com" className="text-sm hover:text-primary transition-colors">
+                  techteeninnovators@gmail.com
                 </a>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Phone className="w-5 h-5 text-primary flex-shrink-0" />
-                <a href="tel:+911234567890" className="text-sm hover:text-primary transition-colors">
-                  +91 123 456 7890
+                <a href="tel:+919313681286" className="text-sm hover:text-primary transition-colors">
+                  +91 931 368 1286
                 </a>
               </li>
             </ul>
@@ -94,9 +96,9 @@ export const Footer = () => {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-border">
           <div className="text-center mb-4">
-            {/* <p className="text-sm text-muted-foreground mb-2">
+            {<p className="text-sm text-muted-foreground mb-2">
               In collaboration with <span className="text-primary font-semibold">Rajak Aman</span>
-            </p> */}
+            </p>}
           </div>
           <p className="text-sm text-muted-foreground text-center">
             © 2025 Swaminarayan Code Fest. All rights reserved. Built with passion by the organizing team.

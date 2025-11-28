@@ -6,7 +6,6 @@ import { Domains } from "@/components/Domains";
 import { Timeline } from "@/components/Timeline";
 import { Prizes } from "@/components/Prizes";
 import { FAQ } from "@/components/FAQ";
-import { Sponsors } from "@/components/Sponsors";
 import { Footer } from "@/components/Footer";
 
 const Index = () => {
@@ -20,7 +19,6 @@ const Index = () => {
       <Timeline />
       <Prizes />
       <FAQ />
-      <Sponsors />
       <Footer />
     </div>
   );

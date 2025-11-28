@@ -8,7 +8,7 @@ import {
 const faqs = [
   {
     question: "Who can participate in Code Fest 2K25?",
-    answer: "Any student from any college or university can participate. Teams of 4 members are required.",
+    answer: "Only college students can participate in codefest 2K25 and students from any department are allowed.",
   },
   {
     question: "What is the participation fee?",
@@ -20,7 +20,7 @@ const faqs = [
   },
   {
     question: "What should I bring to the hackathon?",
-    answer: "Bring your laptop, chargers, student ID, and any hardware you might need for your project. Food will be available for purchase on campus.",
+    answer: "Those students who have laptops should bring them to college, and those students who do not have laptops will be provided with one by the college. Bring your own extension board for your laptop the college will not provide any extensions Food will be available for purchase on campus.",
   },
   {
     question: "Will there be mentors available?",
@@ -36,7 +36,7 @@ const faqs = [
   },
   {
     question: "Is accommodation provided?",
-    answer: "The hackathon is a 30-hour event spanning across 2 days. Participants can work overnight at the venue, but accommodation is not provided.",
+    answer: "The hackathon is a 16-hour event spanning across 2 days. Participants can not work overnight at the venue, but accommodation is not provided.",
   },
 ];
 

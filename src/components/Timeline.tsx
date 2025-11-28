@@ -2,19 +2,19 @@ import { CheckCircle2 } from "lucide-react";
 
 const timelineEvents = [
   {
-    time: "09:00 AM",
+    time: "8:00 AM",
     title: "Registration & Check-in",
-    description: "Team registration and welcome breakfast",
+    description: "Team registration and opening ceremony",
     day: "Day 1",
   },
   {
-    time: "10:00 AM",
+    time: "9:30 AM",
     title: "Opening Ceremony",
-    description: "Introduction to the hackathon and problem statements",
+    description: "Inauguration ceremony with keynote speakers",
     day: "Day 1",
   },
   {
-    time: "11:00 AM",
+    time: "10:30 AM",
     title: "Hacking Begins",
     description: "Teams start working on their projects",
     day: "Day 1",
@@ -32,21 +32,21 @@ const timelineEvents = [
     day: "Day 1",
   },
   {
-    time: "08:00 PM",
-    title: "Dinner",
-    description: "Evening meal and team bonding",
+    time: "5:00 PM",
+    title: "Mid Evaluation",
+    description: "Documentation round (PPT)",
     day: "Day 1",
   },
   {
     time: "09:00 AM",
-    title: "Breakfast",
-    description: "Morning refreshments",
+    title: "Final Evaluation",
+    description: "Finalize projects and prepare video with github repo",
     day: "Day 2",
   },
   {
-    time: "12:00 PM",
-    title: "Final Submissions",
-    description: "Project submission deadline",
+    time: "1:00 PM",
+    title: "Semi-Finalist Declaration",
+    description: "Selecting top 10 teams",
     day: "Day 2",
   },
   {
@@ -56,8 +56,8 @@ const timelineEvents = [
     day: "Day 2",
   },
   {
-    time: "05:00 PM",
-    title: "Results & Closing",
+    time: "3:30 PM",
+    title: "Winner Declaration",
     description: "Winner announcement and prize distribution",
     day: "Day 2",
   },
