@@ -31,7 +31,7 @@ const WebDevelopment = () => {
     },
     {
       title: "To-Do List Application",
-      description: "Create a web-based task manager where users can add, edit, delete, and mark tasks as complete. Add features like task categories, due dates, and priority levels. Great for learning CRUD operations and local storage.",
+      description: "Create a web-based task manager where users can add, edit, delete, and mark tasks as complete. Add features like task categories, due dates, and priority levels and AI Content Assistant. Great for learning CRUD operations and local storage.",
     },
     {
       title: "Weather Information Dashboard",

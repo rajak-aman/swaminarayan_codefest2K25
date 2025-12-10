@@ -15,7 +15,7 @@ const timelineEvents = [
   },
   {
     time: "10:30 AM",
-    title: "Hacking Begins",
+    title: "Building Begins",
     description: "Teams start working on their projects",
     day: "Day 1",
   },

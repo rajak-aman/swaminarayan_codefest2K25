@@ -69,7 +69,7 @@ export const Hero = () => {
           </h1>
 
           <p className="text-sm sm:text-base md:text-lg lg:text-xl text-muted-foreground max-w-3xl mx-auto mb-8 leading-relaxed px-4">
-            Join us on 12 & 13 December for an exciting 16-hour offline hackathon where innovation meets technology. Collaborate with brilliant minds, build impactful solutions, gain real-world exposure from industry experts, and compete for exciting prizes!
+            Join us on 12 & 13 December for an exciting 16-hour offline hackathon where innovation meets technology. Collaborate with brilliant minds, build impactful solutions, gain real-world exposure from industry experts, and compete for exciting prizes! You can also use AI and cutting-edge tools throughout CodeFest to supercharge your projects.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
@@ -85,7 +85,7 @@ export const Hero = () => {
               }
             >
               Register Now
-              <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
+              <span className="mr-1 group-hover:translate-x-1 transition-transform">→</span>
             </Button>
             <Button variant="neon" size="xl">
               Explore
@@ -109,13 +109,14 @@ export const Hero = () => {
               </div>
             </div>
 
-            <div className="bg-card/50 backdrop-blur-sm border border-border rounded-lg p-4 sm:p-6 hover:scale-105 transition-transform">
-              <Award className="w-6 h-6 sm:w-8 sm:h-8 text-primary mx-auto mb-2" />
-              <div className="text-2xl sm:text-3xl font-bold text-glow-cyan mb-1">REWARDS.EXE</div>
-              <div className="text-xs sm:text-sm text-muted-foreground uppercase tracking-wider">
-                Win Prizes
-              </div>
-            </div>
+           <div className="bg-card/50 backdrop-blur-sm border border-border rounded-lg p-4 sm:p-6 hover:scale-105 transition-transform flex flex-col items-center">
+  <Award className="w-6 h-6 sm:w-8 sm:h-8 text-primary mb-2" />
+  <div className="text-2xl text-center sm:text-3xl font-bold text-glow-cyan mb-1">REWARDS.EXE</div>
+  <div className="text-xs sm:text-sm text-muted-foreground uppercase tracking-wider">
+    Win Prizes
+  </div>
+</div>
+
           </div>
 
           {/* COUNTDOWN TIMER */}

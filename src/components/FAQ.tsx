@@ -12,7 +12,7 @@ const faqs = [
   },
   {
     question: "What is the participation fee?",
-    answer: "The participation fee is ₹50 per person, making it ₹200 per team of 4 members.",
+    answer: "The participation fee is ₹50 per person, making it ₹200 per team of 4 members after registration refund is not processable.",
   },
   {
     question: "Do I need to have a team before registering?",

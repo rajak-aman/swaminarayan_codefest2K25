@@ -4,7 +4,7 @@ import logo from "@/assets/logo.png";
 export const Footer = () => {
   return (
     <footer className="bg-card border-t border-border pt-16 pb-8">
-t3      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
@@ -97,7 +97,7 @@ t3      <div className="container mx-auto px-4">
         <div className="pt-8 border-t border-border">
           <div className="text-center mb-4">
             {<p className="text-sm text-muted-foreground mb-2">
-              In collaboration with <span className="text-primary font-semibold">Rajak Aman</span>
+              In collaboration with <span className="text-primary font-semibold">Rajak Aman (Google student Ambassador)</span>
             </p>}
           </div>
           <p className="text-sm text-muted-foreground text-center">

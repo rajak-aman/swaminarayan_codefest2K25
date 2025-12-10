@@ -46,7 +46,7 @@ export const Prizes = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary to-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Compete for exciting prizes worth over ₹1 Lakh and amazing perks
+            Compete for exciting prizes and amazing perks🏆
           </p>
         </div>
 
